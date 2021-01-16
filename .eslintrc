@@ -12,6 +12,14 @@
       "version": "detect"
     }
   },
+  "overrides": [
+    {
+      "files": ["**/*.tsx"],
+      "rules": {
+        "react/prop-types": "off" //ignore prop-types eslint validation
+      }
+    }
+  ],
   "extends": [
     "plugin:react/recommended",
     "plugin:@typescript-eslint/recommended",
