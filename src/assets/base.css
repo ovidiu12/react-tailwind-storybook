@@ -364,7 +364,7 @@ ul {
  */
 
 html {
-  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; /* 1 */
+  font-family: Inter var, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; /* 1 */
   line-height: 1.5; /* 2 */
 }
 
@@ -440,16 +440,16 @@ textarea {
 }
 
 input::-moz-placeholder, textarea::-moz-placeholder {
-  color: #9ca3af;
+  color: #9fa6b2;
 }
 
 input:-ms-input-placeholder, textarea:-ms-input-placeholder {
-  color: #9ca3af;
+  color: #9fa6b2;
 }
 
 input::placeholder,
 textarea::placeholder {
-  color: #9ca3af;
+  color: #9fa6b2;
 }
 
 button,
